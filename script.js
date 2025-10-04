@@ -134,7 +134,7 @@ The purpose of Club69 Dot Space is to bring in people that want the best version
 
 Tell me more?
 
-You can join our telegram channel`,
+You can join our <a href="https://t.me/club69dotspace">telegram group</a>`,
         showReadMore: false  // no Read More here
     }
 ];
