@@ -44,14 +44,6 @@ const posts = [
         image: "images/web-dev.jpg"
     },
     {
-        title: "Digital Marketing Consulting",
-        date: "January 18, 2024",
-        category: "€",
-        excerpt: "Strategic digital marketing consulting to help your business grow online and reach your target audience effectively.",
-        content: "My digital marketing consulting services include: Social Media Strategy, Content Marketing Planning, SEO Audit & Optimization, Google Ads Management, Email Marketing Campaigns, Analytics & Reporting, and Brand Development. Let's discuss how I can help boost your online presence and drive results.",
-        image: "images/marketing.jpg"
-    },
-    {
         title: "Creative Project Ideas",
         date: "January 22, 2024",
         category: "Ideas",
