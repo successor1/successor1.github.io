@@ -108,6 +108,13 @@ button.active {
     border: 1px solid #000;
 }
 
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
 .text-file-list {
     display: flex;
     flex-direction: column;
