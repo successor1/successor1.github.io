@@ -3,7 +3,7 @@ const posts = [
     {
         title: "Building Healthy Habits",
         date: "January 8, 2024",
-        category: "Lifestyle",
+        category: "Ideas",
         excerpt: "Learn practical strategies for developing and maintaining healthy habits that stick.",
         content: "Building healthy habits is about consistency, not perfection. Start small, be patient with yourself, and focus on progress rather than perfection. Whether it's exercise, nutrition, or mindfulness, the key is to make sustainable changes that fit your lifestyle."
     },
@@ -22,6 +22,15 @@ const posts = [
         content: "I offer comprehensive web development services tailored to your business needs. Services include: Custom Website Development, E-commerce Solutions, Web Application Development, Responsive Design, Performance Optimization, SEO Implementation, and Maintenance & Support. Contact me for a free consultation and quote.",
         image: "images/web-dev.jpg"
     },
+    {
+        title: "Contact Me",
+        date: "October 4, 2025",
+        category: "Contact",
+        excerpt: "Reach out for collaborations, questions, or project inquiries.",
+        content: "You can contact me via email at contact@example.com or through the form below. I'm open to freelance work, collaboration opportunities, or simply chatting about tech and ideas.",
+        image: "images/image.png",
+        showReadMore: false
+    }
 ];
 
 // Text files data
@@ -155,23 +164,22 @@ function showContact() {
     hideAllSections();
     document.getElementById('contactContainer').style.display = 'block';
     setActiveButton(3);
-    
+
     const container = document.getElementById('contactContainer');
     container.innerHTML = '';
-    
+
     const contacts = posts.filter(post => post.category === 'Contact');
-    
+
     contacts.forEach(contact => {
+        const imageHtml = contact.image ? `<img src="${contact.image}" alt="${contact.title}" class="post-image" onerror="this.style.display='none'">` : '';
         const contactElement = document.createElement('div');
         contactElement.className = 'post';
-        const imageHtml = contact.image ? `<img src="${contact.image}" alt="${contact.title}" class="post-image" onerror="this.style.display='none'">` : '';
         contactElement.innerHTML = `
             ${imageHtml}
             <h2>${contact.title}</h2>
             <div class="meta">${contact.date}</div>
             <div class="excerpt">${contact.excerpt}</div>
             <div class="content">${contact.content}</div>
-            <a href="#" class="read-more" onclick="toggleContent(this)">Read More</a>
         `;
         container.appendChild(contactElement);
     });
