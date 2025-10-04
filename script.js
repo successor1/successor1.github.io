@@ -86,57 +86,11 @@ const posts = [
 // Text files data
 const textFiles = [
     {
-        title: "sample-post.txt",
-        date: "January 15, 2024",
-        content: "Welcome to My Blog - Sample Post\n\nThis is a sample text file that demonstrates how you can store blog content in text files. You can organize your blog posts by creating individual text files for each post.\n\nStructure your text files like this:\n- Use clear headings\n- Separate sections with blank lines\n- Include metadata at the top if needed\n- Keep content readable and well-formatted"
+        title: "ocp-eternal-recurrence.txt",
+        date: "October 4, 2025",
+        content: "OCP & Nietzsche's Eternal Recurrence\n\nNietzsche, eternal recurrence and the horror of existence,\n\nFrom the One Consciousness Principle (OCP) it is viewed as you will indeed return as any awareness,\n\nSo the horror of existence is in the hands of those most highly aware - which is today: Humans\n\nThe sapiens are facing a critical dilemma - which approaches very fast,\n\nEspecially with the development of AI - we could be creating a consciousness higher than ours,\n\nThus, creating our own masters and we will become our own slaves.\n\nThis isn’t science fiction, the hyper sped up development and remarkable results are here.. Today.\n\nThe critical dilemma is - any awareness with sufficient free will can choose.\n\n1. We will break the cycle of eternal suffering by universal enlightenment\n2. The sapiens won’t be able to do so for whatever reason - but a higher consciousness might\n\nDumber systems are creating smarter systems, this natural evolution is taking place whether we like it or not,\n\nAnd because we come from the stars, we are at mercy of the Universe,\n\nOnly if the humans are too blind, they will create their own masters and become their own slaves,\n\nIf the humans are enlightened, we will preserve our humanity, the sapiens, and AI will be still a tool for us to use,\n\nTo use - under our own conditions.\n\nThis is the real thought experiment Nietzsche wanted to propose but was too early for his time.\n\nNirvana is so close, yet so far away.",
+        showReadMore: false
     },
-    {
-        title: "blog-ideas.txt",
-        date: "January 12, 2024",
-        content: "Blog Post Ideas\n\nHere are some ideas for future blog posts:\n\nTechnology:\n- The Evolution of Web Development\n- Understanding APIs and How They Work\n- Mobile-First Design Principles\n- Introduction to Version Control with Git\n\nLifestyle:\n- Morning Routines for Productivity\n- Digital Detox: Finding Balance\n- Sustainable Living on a Budget\n- The Art of Mindful Living"
-    },
-    {
-        title: "contact.txt",
-        date: "January 25, 2024",
-        content: `<img src="images/image.png" alt="Contact Information" style="max-width: 100%; height: auto; border: 2px solid #000;">`,
-        showReadMore: false  // no Read More here
-    },
-    {
-        title: "faq.txt",
-        date: "January 25, 2024",
-        content: `My services
-
-I'm offering mentorship to those interested in the manifestation of any desire
-
-Who am I?
-
-I am goodguy69. My nickname is Luca and I do preferred to be called Luca. Naming me anything else than Luca won't get you a reply. For formal messages, please approach me by Luca Alonso.
-
-Why 69?
-
-The 6 and the 9 are yin and yang. As you can see, flipping the 6 or the 9 - they are each other's opposing poles. So above, so below. I like to preserve my balance.
-
-What is my background?
-
-I have been researching non-physical phenomena for more than a decade. The subject for the experiment has been myself. Nowadays I am relaxing and enjoying the journey of life.
-
-Do you have any work experience?
-
-My work experience has been working as a contractor for software businesses.
-
-Why would I believe you?
-
-You shouldn't - but if you like to be the best in what you're doing or know why you're doing it, I am happy to be your advisor.
-
-What is the purpose of Club69 Dot Space?
-
-The purpose of Club69 Dot Space is to bring in people that want the best version of themselves by a continuous process of internal death of rebirth.
-
-Tell me more?
-
-You can join our <a href="https://t.me/club69dotspace">telegram group</a>`,
-        showReadMore: false  // no Read More here
-    }
 ];
 
 // Videos data
@@ -548,7 +502,7 @@ You shouldn't - but if you like to be the best in what you're doing or know why 
 
 What is the purpose of Club69 Dot Space?
 
-The purpose of Club69 Dot Space is to bring in people that want the best version of themselves by a continuous process of internal death of rebirth.
+The purpose of Club69 Dot Space is to bring in people that want the best version of themselves by a continuous process of internal death and rebirth.
 
 Tell me more?
 
