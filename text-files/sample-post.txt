@@ -1,0 +1,17 @@
+Welcome to My Blog - Sample Post
+
+This is a sample text file that demonstrates how you can store blog content in text files. You can organize your blog posts by creating individual text files for each post.
+
+Structure your text files like this:
+- Use clear headings
+- Separate sections with blank lines
+- Include metadata at the top if needed
+- Keep content readable and well-formatted
+
+This approach allows you to:
+- Easily edit content in any text editor
+- Version control your blog posts
+- Organize content by categories or dates
+- Import content into your blog system
+
+Feel free to create more text files for your blog posts!

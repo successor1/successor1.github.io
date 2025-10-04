@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Club69 Dot Space</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Club69 Dot Space</h1>
+        <div class="buttons">
+            <button onclick="showPosts()">Posts</button>
+            <button onclick="showServices()">€</button>
+            <button onclick="showIdeas()">Ideas</button>
+            <button onclick="showContact()">Contact</button>
+            <button onclick="showTextFiles()">Text Files</button>
+            <button onclick="showVideos()">Videos</button>
+        </div>
+    </header>
+
+    <main>
+        <div class="posts" id="postsContainer">
+            <!-- Blog posts will be loaded here -->
+        </div>
+        <div class="services" id="servicesContainer" style="display: none;">
+            <!-- Services will be loaded here -->
+        </div>
+        <div class="ideas" id="ideasContainer" style="display: none;">
+            <!-- Ideas will be loaded here -->
+        </div>
+        <div class="contact" id="contactContainer" style="display: none;">
+            <!-- Contact will be loaded here -->
+        </div>
+        <div class="text-files" id="textFilesContainer" style="display: none;">
+            <!-- Text files will be loaded here -->
+        </div>
+        <div class="videos" id="videosContainer" style="display: none;">
+            <!-- Videos will be loaded here -->
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
