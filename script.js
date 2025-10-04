@@ -99,16 +99,16 @@ const textFiles = [
 // Videos data
 const videos = [
     {
-        title: "Sample Video 1",
-        embed: '<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/c1khkz?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>',
-        date: "January 15, 2024",
-        description: "This is a sample video demonstrating the video functionality."
+        title: "We cling to what exists",
+        embed: '<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/rixwmx?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>',
+        date: "Unknown",
+        description: "Attach. Detach."
     },
     {
-        title: "Sample Video 2", 
-        embed: '<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/example2?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>',
-        date: "January 12, 2024",
-        description: "Another sample video for testing purposes."
+        title: "Psychosis real is not", 
+        embed: '<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/rixwmx?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>',
+        date: "Unknown",
+        description: "The collectivist spirit"
     },
     {
         title: "Sample Video 3",
