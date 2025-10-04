@@ -1,27 +1,6 @@
 // Simple blog posts data
 const posts = [
     {
-        title: "Getting Started with Web Development",
-        date: "January 15, 2024",
-        category: "Technology",
-        excerpt: "Learn the fundamentals of web development and discover the tools you need to build amazing websites.",
-        content: "Web development is an exciting field that combines creativity with technical skills. In this post, we'll explore the three core technologies that form the foundation of modern web development: HTML, CSS, and JavaScript. HTML provides the structure, CSS handles the styling, and JavaScript adds interactivity to your websites."
-    },
-    {
-        title: "The Art of Minimalist Design",
-        date: "January 12, 2024",
-        category: "Design",
-        excerpt: "Discover how minimalist design principles can transform your projects and create more impactful user experiences.",
-        content: "Minimalist design isn't just about removing elements; it's about carefully considering what's essential. Every element should serve a purpose, and every space should be intentional. This approach leads to cleaner, more focused designs that communicate more effectively."
-    },
-    {
-        title: "My Journey Through Southeast Asia",
-        date: "January 10, 2024",
-        category: "Travel",
-        excerpt: "Follow my adventures across Thailand, Vietnam, and Cambodia. From bustling cities to serene beaches.",
-        content: "Traveling through Southeast Asia was a transformative experience. Each country offered unique insights into different cultures, cuisines, and ways of life. The warmth of the people, the richness of the history, and the natural beauty made this journey unforgettable."
-    },
-    {
         title: "Building Healthy Habits",
         date: "January 8, 2024",
         category: "Lifestyle",
@@ -43,43 +22,6 @@ const posts = [
         content: "I offer comprehensive web development services tailored to your business needs. Services include: Custom Website Development, E-commerce Solutions, Web Application Development, Responsive Design, Performance Optimization, SEO Implementation, and Maintenance & Support. Contact me for a free consultation and quote.",
         image: "images/web-dev.jpg"
     },
-    {
-        title: "Digital Marketing Consulting",
-        date: "January 18, 2024",
-        category: "€",
-        excerpt: "Strategic digital marketing consulting to help your business grow online and reach your target audience effectively.",
-        content: "My digital marketing consulting services include: Social Media Strategy, Content Marketing Planning, SEO Audit & Optimization, Google Ads Management, Email Marketing Campaigns, Analytics & Reporting, and Brand Development. Let's discuss how I can help boost your online presence and drive results.",
-        image: "images/marketing.jpg"
-    },
-    {
-        title: "Creative Project Ideas",
-        date: "January 22, 2024",
-        category: "Ideas",
-        excerpt: "A collection of creative project ideas that inspire innovation and push the boundaries of what's possible.",
-        content: "Here are some exciting project ideas I'm exploring: Interactive Art Installations using AR/VR, Sustainable Technology Solutions, Community-Driven Mobile Apps, AI-Powered Creative Tools, Blockchain-Based Voting Systems, and Smart City Integration Projects. Each idea represents an opportunity to solve real-world problems through technology and creativity."
-    },
-    {
-        title: "Future Innovation Concepts",
-        date: "January 19, 2024",
-        category: "Ideas",
-        excerpt: "Exploring cutting-edge concepts that could shape the future of technology and human interaction.",
-        content: "Some forward-thinking concepts I'm developing: Quantum Computing Applications for Everyday Problems, Biometric Security Systems, Autonomous Community Networks, Personalized Learning Algorithms, and Zero-Waste Technology Solutions. These ideas represent the intersection of technology, sustainability, and human-centered design."
-    },
-    {
-        title: "Get In Touch",
-        date: "January 25, 2024",
-        category: "Contact",
-        excerpt: "Ready to collaborate? Here's how you can reach me for projects, consultations, or just to say hello.",
-        content: `<img src="images/image.png" alt="Contact Information" style="max-width: 100%; height: auto; border: 2px solid #000;">`,
-        image: "images/contact.jpg"
-    },
-    {
-        title: "Collaboration Opportunities",
-        date: "January 23, 2024",
-        category: "Contact",
-        excerpt: "Open to partnerships, joint ventures, and collaborative projects that push creative boundaries.",
-        content: "I'm actively seeking collaboration opportunities in: Tech Startups, Creative Agencies, Non-Profit Organizations, Educational Institutions, and Innovation Labs. Whether you need a technical co-founder, creative consultant, or project partner, I'm interested in meaningful collaborations that create positive impact. Let's discuss how we can work together."
-    }
 ];
 
 // Text files data
