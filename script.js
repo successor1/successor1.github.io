@@ -78,6 +78,73 @@ const posts = [
 // Text files data
 const textFiles = [
     {
+    title: "8x3-1x3-points-plan-for-changing-the-netherlands.txt",
+    date: "October 5, 2025",
+    content: `8 x 3 + 1 x 4 Points Plan for changing The Netherlands
+
+1. Start acting by the One Consciousness Principle Plan
+2. Start investing within and accelerate growth
+3. Start building more homes
+4. Reshaping the education system
+5. Financial incentive for more children
+6. Reshaping our country into AI driven automation
+7. Reshaping our government bureaucracy into AI driven automation
+8. Reshaping our military into AGI driven machines
+
+1. A new research center for non-physical metaphysical phenomena 
+2. Invest more into real Dutch culture - art and music
+3. Start focusing on a mix of collectivist and individualist approach - a healthy balanced society
+4. Make cities less noisy
+5. Fight against gentrification 
+6. Make the government and corporations work in parallel idea to execution 
+7. Less taxes for individuals and corporations
+8. Inflation rate is fixed at 2%
+
+1. Further tune up the knowledge economy (especially in specialist areas such as quantum computing, AI, blockchain)
+2. Further tune up the military budget to 7.5%
+3. Instead of a cultural salad - The OCP Party aims for fusion and connection on a voluntary basis. 
+4. Aim for fundamental and radical differences. Destroy what doesn’t work and rebirth (replace) to something better.
+
+First of all, to start with the foundations of The OCP Party:
+
+The OCP Plan is a plan that respects every awareness (so above, so below) in the country,
+
+OCP is both rational pragmatic and spiritual jungian path.
+
+The OCP has it all. It takes the best of all worlds and combines it into the OCP as we know it today.
+
+The OCP is adaptable to any time. The OCP works on rules but it may destroy rules and birth new rules on demand.
+
+The OCP is the board and the salt of the resonance experiment. It is not a fixed frequency, vibration and energy.
+
+The OCP can tap into the collective conscious and collective unconscious to make firm decisions.
+
+The OCP recognizes that labels are just labels. The OCP doesn’t defend labels - it defends what is necessary to defend.
+
+The OCP moves like water, steam and ice. 
+
+The OCP does it all except it has one condition: A collective believe in the OCP Party.
+
+The OCP is an accelerating force and it is not. It is so above, so below. The OCP derives philosophy from The New Thought, Hermetic Principles, ancient religious scriptures, (Zen) Buddhism and components from mystical islam. The OCP Party won’t attach itself to these labels, without hidden intentions, The OCP Party is and will always be a patriotic party. 
+
+For the OCP Party all members are equal voices and open for debate for practical matters. 
+
+The OCP does not care about the current political spectrum. The OCP does not recognize any of today’s political spectrum. Instead it does what it has to do - whatever is in the state & people’s interests. Creating a healthy functional society down to the microscopic - the individual. 
+
+The OCP does believe the current democratic way is undermining how free the OCP Party could operate. A democracy is essentially only a tool for the OCP to navigate within today’s borders. The OCP Party is not a communist party, but the OCP Party does support having only one party, and anyone interested is free to speak within the OCP Party by applying for membership. 
+
+The OCP Party believes that discussion is of the devil - instead constructive criticism strictly on the subject. This includes no personal attacks or other unnecessary comments that does not help the OCP Party decision making. Doing so will cancel the discussion on the subject and retry it again on another given moment.
+
+The OCP Party does not recognize all other parties - instead it recognizes only one party. This is because democracy is the pulling and letting go of policies like a Newton's cradle - which by definition is process of wasting time. Policies don’t truly change if other parties are coming and going - it has no consistency in it. The OCP Party stands for long-term planning - this makes it essential for the OCP Party to operate as the one and only party. The OCP Party sees predictable policy making as holy - the OCP party will work hard to achieve any goal, even if it may appear unrealistic - The OCP party will make it realistic and manifest it into our shared reality.
+
+The OCP Party further supports this claim as the majority of the people don’t need to know about politics. The majority does not have to carry the responsibility of voting. Instead the individual should focus on itself and only itself, by improving itself - where the government plays as a true “verzorgingsstaat” to make it happen - by making it available.
+
+The OCP Party will have its own schools where individuals can learn to think for themselves and be an asset for the government or for the corporations. The goal here is to produce men of steel within them and work together with the individual to know their true purpose and destiny. Individuals older than 18 years old are free to apply here and combine this with their study materials to obtain knowledge and wisdom. The OCP Party sees all citizens of the Kingdom of The Netherlands to be equal. Discrimination or other types of anti-patriotic states of consciousness will get citizens to be kicked out from The OCP Party.
+
+The OCP Party idea’s are openly shared and anyone may take on the lead. Currently The OCP Party is a decentralized force - once there are more members, then it will gain a hierarchical structure. The best planners and executors will be rewarded to the top.`,
+    showReadMore: false
+},
+    {
     title: "the-imperfect-timing-of-the-perfect.txt",
     date: "October 5, 2025",
     content: "The Imperfect Timing of the Perfect\n\nOur new party, OCP Party, opened today.\n\nFeel free to visit and look around,\nWith extraordinary interiors,\nMagnificent art by Salvador Dali and Picasso.\n\nWe’re entering a new era — an era of H-O-P-E,\nAn era with a touch of surrealism and dharma.\n\nThe OCP Party is set in stone and cannot be changed!\nBrick by brick,\nVeni, vidi, vici.\n\nIt is just a matter of time until there will be more like us!\n\nOur pragmatic approach — we are not left or right,\nWe’re always just right.\n\nWe take decisions based upon: does this work?\nIt is a wish fulfilled desire.\n\nWe will be of global influence,\nGeneration A–Z will be happily our customers.\n\nWe don’t talk, we build.\nWe don’t sit, we act.\n\nWe are the acceleration of a new political movement.\nWe don’t aim for more — we aim for less.\n\nWe are men of quality and equity — not of equality.\nWe simply follow the One Consciousness Principle.\n\nWe name ourselves OCP, so we won’t slip like a Freudian would.\nWe isolate ourselves from dinner calls.\nWe work, and we outwork everybody else.\n\nOur schools are all named the same to show equality.\nOur shoes match too — if you know, you know.\n\nWe don’t down-regulate, we up-regulate.\nWe don’t crash our trains — we simply decelerate.\n\nWe’re the OCP Party.\n\nOCP! OCP! OCP!",
