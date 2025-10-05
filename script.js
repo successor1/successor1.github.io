@@ -80,7 +80,7 @@ const textFiles = [
     {
     title: "8x3-1x3-points-plan-for-changing-the-netherlands.txt",
     date: "October 5, 2025",
-    content: `8 x 3 + 1 x 4 Points Plan for changing The Netherlands
+    content: `8 x 2 + 1 x 4 Points Plan for changing The Netherlands
 
 1. Start acting by the One Consciousness Principle Plan
 2. Start investing within and accelerate growth
