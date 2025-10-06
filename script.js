@@ -78,6 +78,12 @@ const posts = [
 // Text files data
 const textFiles = [
     {
+    title: "X, Y or Z superiority over other “races” ideology in The Netherlands",
+    date: "October 5, 2025",
+    content: "Any type of “color, race” superiority is fundamentally flawed and unsuitable for The Netherlands.\n\nThe Netherlands is a multicultural society.\n\nThis decision was already made in the 1980s with the arrival of the “gastarbeiders” — the guest workers. But not only that.\n\nEven before that, the Molukkers arrived in 1951 — they mass migrated to the Netherlands.\n\nAnd if we go further back into our history:\nEx-colonies like Suriname, the Dutch Caribbean, and others — they also migrated here en masse.\n\nNow combine all of that — with modern-day expats, refugees, international students.\n\nThe Netherlands isn’t as “white” as some might still think.\n\nThe best way to navigate this country is to accept it as it truly is — today.\n\nIn the event of an emergency, crisis, or war — you depend on your neighbor.\nYour left and your right — they might be of *any* background.\n\nSo what is culture, really?\n\nCulture is not fixed.\nCulture is ever-changing.\nCulture is determined by the people living here — right now.\n\nThere is no logic to be found in superiority ideologies.\nThey are emotional, not rational.\nThey are a regression — not progression.\nThese ideas of nationalism and racial hierarchy go back 100 years.\n\nThe OCP Party rejects that completely.\n\nWe stand by the One Consciousness Principle — which respects every awareness, every background, and every soul within the Netherlands.\n\nIf you hold a Dutch passport — that’s your identity. No one can take that from you.\n\nNow — yes — many of these “superiority” groups talk about *weerbaarheid* — the resilience of the Dutch people.\n\nThis is something we support too.\nBut not for hate. Not for exclusion.\n\nOur version of resilience is about health. Readiness. Adaptability.\nA society prepared for anything — together.\n\nThis is not nationalism. This is unity.\nThis is not supremacy. This is sovereignty.\n\nThis is the Netherlands.\nThis is the future.\nThis is OCP.",
+    showReadMore: false
+    },
+    {
     title: "8x3-1x3-points-plan-for-changing-the-netherlands.txt",
     date: "October 5, 2025",
     content: `8 x 2 + 1 x 4 Points Plan for changing The Netherlands
